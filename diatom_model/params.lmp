@@ -1,0 +1,14 @@
+#Masses
+
+mass	1  12
+mass	2   12
+
+#Pair Coeffs
+
+#pair_coeff 1 1   0.1094001   3.3996700
+#pair_coeff 2 2   0.0157000   2.6495300
+
+#Bond Coeffs
+
+#bond_coeff	1 dw    2.153	4.5   0.75	# Setting up a double well with barrier of 9 kJ/mol and minimas at 1.5 and 3 Angstroms.
+bond_coeff	1 harmonic      2000	1.5
